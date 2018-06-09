@@ -1,0 +1,101 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      2925,         91]
+NotebookOptionsPosition[      2186,         69]
+NotebookOutlinePosition[      2540,         85]
+CellTagsIndexPosition[      2497,         82]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Learning Mathematica", "Title",
+ CellChangeTimes->{{3.737504750470119*^9, 3.737504751439664*^9}, {
+  3.73750501492509*^9, 3.737505030746472*^9}, {3.7375052214284163`*^9, 
+  3.737505383893465*^9}, {3.737505435028529*^9, 
+  3.7375054511699*^9}},ExpressionUUID->"f20f1892-1b44-480a-b7c8-f83abfede777"],
+
+Cell[TextData[{
+ StyleBox["Cell Types",
+  FontWeight->"Bold"],
+ "\nTo add a new cell: Right click > Insert New Cell > choose type\nTo view \
+or change current cell type: Format > Style\nTo be able to use executable \
+Wolfram language code, we want the type to be input. \nWe can see the cells' \
+structure on the right side of this document.\n\n",
+ StyleBox["Execute cell",
+  FontWeight->"Bold"],
+ "\nPress Enter + Shift to execute."
+}], "Text",
+ CellChangeTimes->{{3.737504750470119*^9, 3.737504751439664*^9}, {
+  3.73750501492509*^9, 3.737505030746472*^9}, {3.7375052214284163`*^9, 
+  3.737505383893465*^9}, {3.737505435028529*^9, 
+  3.737505455186327*^9}},ExpressionUUID->"7a7d3739-3881-42b7-9056-\
+8ffdb547eae3"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"2", "+", "2", " "}]], "Input",
+ CellChangeTimes->{{3.737505000627808*^9, 3.737505004444191*^9}},
+ CellLabel->"In[7]:=",ExpressionUUID->"6f7ea110-77cd-4af2-ba0c-0a03976720bb"],
+
+Cell[BoxData["4"], "Output",
+ CellChangeTimes->{3.7375050051936703`*^9, 3.737505240086234*^9},
+ CellLabel->"Out[7]=",ExpressionUUID->"d5e92f8e-527e-4b4e-aa17-e22f73a420d4"]
+}, Open  ]],
+
+Cell["\<\
+
+
+
+
+\
+\>", "Text",
+ CellChangeTimes->{{3.737505083632101*^9, 
+  3.737505220219658*^9}},ExpressionUUID->"906fa363-b47d-4eb8-9eff-\
+ba083f74411f"]
+}, Open  ]]
+},
+WindowSize->{808, 651},
+WindowMargins->{{Automatic, 182}, {Automatic, 4}},
+FrontEndVersion->"11.3 for Mac OS X x86 (32-bit, 64-bit Kernel) (March 5, \
+2018)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 304, 4, 98, "Title",ExpressionUUID->"f20f1892-1b44-480a-b7c8-f83abfede777"],
+Cell[887, 28, 716, 15, 196, "Text",ExpressionUUID->"7a7d3739-3881-42b7-9056-8ffdb547eae3"],
+Cell[CellGroupData[{
+Cell[1628, 47, 198, 3, 30, "Input",ExpressionUUID->"6f7ea110-77cd-4af2-ba0c-0a03976720bb"],
+Cell[1829, 52, 172, 2, 68, "Output",ExpressionUUID->"d5e92f8e-527e-4b4e-aa17-e22f73a420d4"]
+}, Open  ]],
+Cell[2016, 57, 154, 9, 127, "Text",ExpressionUUID->"906fa363-b47d-4eb8-9eff-ba083f74411f"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
